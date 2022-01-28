@@ -1,11 +1,11 @@
 nav:
-  home: 首页
-  about: 关于
-  articles: 归档
-  projects: 项目
-  tag: 标签
-  category: 分类
-  search: 搜索
+  home: Home
+  about: About
+  articles: Archives
+  projects: Projects
+  tag: Tag
+  category: Category
+  search: Search
 
 footer:
   copyright: Copyright
